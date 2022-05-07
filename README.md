@@ -9,4 +9,5 @@ Install:
 
 Keybind:
 the key I set to open the menu is Y
+
 You can change the key value to you own key in Client>Config 
